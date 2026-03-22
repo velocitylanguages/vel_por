@@ -299,7 +299,37 @@
       "portuguese": "Espere o momento certo, ele virá.",
       "category": "Patience",
       "generated_at": "2026-03-22T05:34:59.372408"
+    },
+    {
+      "english": "Learn Portuguese, for travel.",
+      "portuguese": "Aprenda português, para viajar.",
+      "category": "Purpose",
+      "generated_at": "2026-03-22T14:05:08.837983"
+    },
+    {
+      "english": "Study daily, make progress.",
+      "portuguese": "Estude todo dia, avance.",
+      "category": "Purpose",
+      "generated_at": "2026-03-22T14:05:08.837993"
+    },
+    {
+      "english": "Speak clearly, be understood.",
+      "portuguese": "Fale claro, seja entendido.",
+      "category": "Purpose",
+      "generated_at": "2026-03-22T14:05:08.837995"
+    },
+    {
+      "english": "Listen closely, absorb more.",
+      "portuguese": "Ouça atentamente, absorva mais.",
+      "category": "Purpose",
+      "generated_at": "2026-03-22T14:05:08.837997"
+    },
+    {
+      "english": "Practice often, build confidence.",
+      "portuguese": "Pratique frequentemente, crie confiança.",
+      "category": "Purpose",
+      "generated_at": "2026-03-22T14:05:08.837998"
     }
   ],
-  "last_updated": "2026-03-22T05:34:59.372409"
+  "last_updated": "2026-03-22T14:05:08.838001"
 }
