@@ -479,7 +479,37 @@
       "portuguese": "Abrace o desafio, fique mais forte.",
       "category": "Confidence",
       "generated_at": "2026-03-23T16:14:30.240880"
+    },
+    {
+      "english": "Let's move past this, okay?",
+      "portuguese": "Vamos superar isso, tá bem?",
+      "category": "Forgiveness",
+      "generated_at": "2026-03-23T18:11:30.342405"
+    },
+    {
+      "english": "I didn't mean to hurt you.",
+      "portuguese": "Não foi minha intenção te magoar.",
+      "category": "Forgiveness",
+      "generated_at": "2026-03-23T18:11:30.342413"
+    },
+    {
+      "english": "I'm asking for your pardon.",
+      "portuguese": "Peço o seu perdão.",
+      "category": "Forgiveness",
+      "generated_at": "2026-03-23T18:11:30.342414"
+    },
+    {
+      "english": "Please, let's be friends again.",
+      "portuguese": "Por favor, vamos ser amigos de novo.",
+      "category": "Forgiveness",
+      "generated_at": "2026-03-23T18:11:30.342415"
+    },
+    {
+      "english": "I'm so sorry for everything.",
+      "portuguese": "Desculpe por tudo.",
+      "category": "Forgiveness",
+      "generated_at": "2026-03-23T18:11:30.342416"
     }
   ],
-  "last_updated": "2026-03-23T16:14:30.240882"
+  "last_updated": "2026-03-23T18:11:30.342418"
 }
