@@ -629,7 +629,37 @@
       "portuguese": "Seu apoio, é maravilhoso.",
       "category": "Gratitude",
       "generated_at": "2026-03-24T19:37:56.518976"
+    },
+    {
+      "english": "Breathe in, breathe out, peace.",
+      "portuguese": "Inspire, expire, paz.",
+      "category": "Mindfulness",
+      "generated_at": "2026-03-24T21:01:38.576642"
+    },
+    {
+      "english": "Be here now, fully present.",
+      "portuguese": "Esteja aqui, agora, presente.",
+      "category": "Mindfulness",
+      "generated_at": "2026-03-24T21:01:38.576649"
+    },
+    {
+      "english": "Listen closely, to your heart.",
+      "portuguese": "Ouça atento, seu coração.",
+      "category": "Mindfulness",
+      "generated_at": "2026-03-24T21:01:38.576651"
+    },
+    {
+      "english": "Feel the ground, beneath your feet.",
+      "portuguese": "Sinta o chão, sob seus pés.",
+      "category": "Mindfulness",
+      "generated_at": "2026-03-24T21:01:38.576652"
+    },
+    {
+      "english": "Let go, of what you can't control.",
+      "portuguese": "Solte o que, não pode controlar.",
+      "category": "Mindfulness",
+      "generated_at": "2026-03-24T21:01:38.576653"
     }
   ],
-  "last_updated": "2026-03-24T19:37:56.518978"
+  "last_updated": "2026-03-24T21:01:38.576655"
 }
