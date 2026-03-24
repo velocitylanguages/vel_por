@@ -659,7 +659,37 @@
       "portuguese": "Solte o que, não pode controlar.",
       "category": "Mindfulness",
       "generated_at": "2026-03-24T21:01:38.576653"
+    },
+    {
+      "english": "You're my best friend, always.",
+      "portuguese": "Você é meu melhor amigo, sempre.",
+      "category": "Friendship",
+      "generated_at": "2026-03-24T23:04:09.577977"
+    },
+    {
+      "english": "Thanks for everything, pal.",
+      "portuguese": "Obrigado por tudo, amigo.",
+      "category": "Friendship",
+      "generated_at": "2026-03-24T23:04:09.577985"
+    },
+    {
+      "english": "We'll have fun, together.",
+      "portuguese": "Vamos nos divertir, juntos.",
+      "category": "Friendship",
+      "generated_at": "2026-03-24T23:04:09.577986"
+    },
+    {
+      "english": "Glad you're here, truly.",
+      "portuguese": "Fico feliz que você veio, de verdade.",
+      "category": "Friendship",
+      "generated_at": "2026-03-24T23:04:09.577987"
+    },
+    {
+      "english": "You understand me, a lot.",
+      "portuguese": "Você me entende, muito.",
+      "category": "Friendship",
+      "generated_at": "2026-03-24T23:04:09.577988"
     }
   ],
-  "last_updated": "2026-03-24T21:01:38.576655"
+  "last_updated": "2026-03-24T23:04:09.577990"
 }
