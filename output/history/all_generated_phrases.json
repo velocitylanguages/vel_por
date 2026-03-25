@@ -689,7 +689,37 @@
       "portuguese": "Você me entende, muito.",
       "category": "Friendship",
       "generated_at": "2026-03-24T23:04:09.577988"
+    },
+    {
+      "english": "Every word, a step forward.",
+      "portuguese": "Cada palavra, um passo adiante.",
+      "category": "Confidence",
+      "generated_at": "2026-03-25T05:42:12.134512"
+    },
+    {
+      "english": "Believe in your progress, it's real.",
+      "portuguese": "Acredite no seu progresso, é real.",
+      "category": "Confidence",
+      "generated_at": "2026-03-25T05:42:12.134521"
+    },
+    {
+      "english": "You are learning, be patient.",
+      "portuguese": "Você está aprendendo, seja paciente.",
+      "category": "Confidence",
+      "generated_at": "2026-03-25T05:42:12.134522"
+    },
+    {
+      "english": "This journey, you will conquer.",
+      "portuguese": "Esta jornada, você vai conquistar.",
+      "category": "Confidence",
+      "generated_at": "2026-03-25T05:42:12.134523"
+    },
+    {
+      "english": "Keep practicing, fluency will come.",
+      "portuguese": "Continue praticando, a fluência virá.",
+      "category": "Confidence",
+      "generated_at": "2026-03-25T05:42:12.134524"
     }
   ],
-  "last_updated": "2026-03-24T23:04:09.577990"
+  "last_updated": "2026-03-25T05:42:12.134526"
 }
