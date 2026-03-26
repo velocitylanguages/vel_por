@@ -839,7 +839,37 @@
       "portuguese": "Você é um ótimo amigo, mesmo.",
       "category": "Friendship",
       "generated_at": "2026-03-26T16:45:43.625153"
+    },
+    {
+      "english": "Read books, learn words.",
+      "portuguese": "Leia livros, aprenda palavras.",
+      "category": "Purpose",
+      "generated_at": "2026-03-26T19:40:51.325006"
+    },
+    {
+      "english": "Write sentences, form ideas.",
+      "portuguese": "Escreva frases, forme ideias.",
+      "category": "Purpose",
+      "generated_at": "2026-03-26T19:40:51.325014"
+    },
+    {
+      "english": "Watch movies, catch phrases.",
+      "portuguese": "Veja filmes, pegue frases.",
+      "category": "Purpose",
+      "generated_at": "2026-03-26T19:40:51.325016"
+    },
+    {
+      "english": "Talk to natives, improve fluency.",
+      "portuguese": "Fale com nativos, melhore a fluência.",
+      "category": "Purpose",
+      "generated_at": "2026-03-26T19:40:51.325017"
+    },
+    {
+      "english": "Enjoy the process, it's rewarding.",
+      "portuguese": "Curta o processo, é gratificante.",
+      "category": "Purpose",
+      "generated_at": "2026-03-26T19:40:51.325018"
     }
   ],
-  "last_updated": "2026-03-26T16:45:43.625155"
+  "last_updated": "2026-03-26T19:40:51.325020"
 }
