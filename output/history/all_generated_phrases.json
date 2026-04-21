@@ -2069,7 +2069,37 @@
       "portuguese": "Contigo, a vida é doce.",
       "category": "Love",
       "generated_at": "2026-04-21T16:54:29.260365"
+    },
+    {
+      "english": "Face the wind, stay steady.",
+      "portuguese": "Enfrente o vento, fique firme.",
+      "category": "Courage",
+      "generated_at": "2026-04-21T20:03:03.043191"
+    },
+    {
+      "english": "When in doubt, move forward.",
+      "portuguese": "Na dúvida, siga em frente.",
+      "category": "Courage",
+      "generated_at": "2026-04-21T20:03:03.043200"
+    },
+    {
+      "english": "A hesitant step, still moves.",
+      "portuguese": "Um passo hesitante, ainda se move.",
+      "category": "Courage",
+      "generated_at": "2026-04-21T20:03:03.043201"
+    },
+    {
+      "english": "See the obstacle, find the path.",
+      "portuguese": "Veja o obstáculo, ache o caminho.",
+      "category": "Courage",
+      "generated_at": "2026-04-21T20:03:03.043203"
+    },
+    {
+      "english": "Let fear be a whisper.",
+      "portuguese": "Deixe o medo ser um sussurro.",
+      "category": "Courage",
+      "generated_at": "2026-04-21T20:03:03.043205"
     }
   ],
-  "last_updated": "2026-04-21T16:54:29.260367"
+  "last_updated": "2026-04-21T20:03:03.043207"
 }
