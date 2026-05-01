@@ -2339,7 +2339,37 @@
       "portuguese": "Encontra alegria, no comum.",
       "category": "Positive Life",
       "generated_at": "2026-05-01T20:05:56.206841"
+    },
+    {
+      "english": "Plant a seed, watch it grow.",
+      "portuguese": "Plante uma semente, veja crescer.",
+      "category": "Purpose",
+      "generated_at": "2026-05-01T22:42:42.359786"
+    },
+    {
+      "english": "Open a door, find a view.",
+      "portuguese": "Abra uma porta, ache uma vista.",
+      "category": "Purpose",
+      "generated_at": "2026-05-01T22:42:42.359794"
+    },
+    {
+      "english": "Listen to the wind, learn its song.",
+      "portuguese": "Ouça o vento, aprenda sua canção.",
+      "category": "Purpose",
+      "generated_at": "2026-05-01T22:42:42.359796"
+    },
+    {
+      "english": "Build a bridge, connect two shores.",
+      "portuguese": "Construa uma ponte, ligue duas margens.",
+      "category": "Purpose",
+      "generated_at": "2026-05-01T22:42:42.359797"
+    },
+    {
+      "english": "Taste the rain, feel alive.",
+      "portuguese": "Sinta a chuva, sinta-se vivo.",
+      "category": "Purpose",
+      "generated_at": "2026-05-01T22:42:42.359798"
     }
   ],
-  "last_updated": "2026-05-01T20:05:56.206843"
+  "last_updated": "2026-05-01T22:42:42.359799"
 }
