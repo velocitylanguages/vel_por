@@ -2579,7 +2579,37 @@
       "portuguese": "A montanha, espera por você.",
       "category": "Strength",
       "generated_at": "2026-05-03T14:12:59.215489"
+    },
+    {
+      "english": "The seed sprouts, eventually.",
+      "portuguese": "A semente brota, eventualmente.",
+      "category": "Patience",
+      "generated_at": "2026-05-03T16:38:03.761065"
+    },
+    {
+      "english": "Slow river, deep currents.",
+      "portuguese": "Rio lento, correntes fundas.",
+      "category": "Patience",
+      "generated_at": "2026-05-03T16:38:03.761074"
+    },
+    {
+      "english": "Wait for the tide, it turns.",
+      "portuguese": "Espere a maré, ela muda.",
+      "category": "Patience",
+      "generated_at": "2026-05-03T16:38:03.761075"
+    },
+    {
+      "english": "This calm before, a new song.",
+      "portuguese": "Esta calma antes, uma canção nova.",
+      "category": "Patience",
+      "generated_at": "2026-05-03T16:38:03.761076"
+    },
+    {
+      "english": "The fog lifts, slowly.",
+      "portuguese": "O nevoeiro levanta, devagar.",
+      "category": "Patience",
+      "generated_at": "2026-05-03T16:38:03.761077"
     }
   ],
-  "last_updated": "2026-05-03T14:12:59.215491"
+  "last_updated": "2026-05-03T16:38:03.761079"
 }
