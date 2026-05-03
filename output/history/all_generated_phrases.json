@@ -2609,7 +2609,37 @@
       "portuguese": "O nevoeiro levanta, devagar.",
       "category": "Patience",
       "generated_at": "2026-05-03T16:38:03.761077"
+    },
+    {
+      "english": "Breathe in, scent the present.",
+      "portuguese": "Respire fundo, sinta o agora.",
+      "category": "Mindfulness",
+      "generated_at": "2026-05-03T19:55:46.651134"
+    },
+    {
+      "english": "Let worries drift, like clouds.",
+      "portuguese": "Deixe o stress voar, como nuvens.",
+      "category": "Mindfulness",
+      "generated_at": "2026-05-03T19:55:46.651143"
+    },
+    {
+      "english": "This moment, is enough.",
+      "portuguese": "Este momento, é suficiente.",
+      "category": "Mindfulness",
+      "generated_at": "2026-05-03T19:55:46.651145"
+    },
+    {
+      "english": "Listen close, to your rhythm.",
+      "portuguese": "Ouça atento, ao seu compasso.",
+      "category": "Mindfulness",
+      "generated_at": "2026-05-03T19:55:46.651146"
+    },
+    {
+      "english": "Feel the ground, beneath you.",
+      "portuguese": "Sinta o chão, sob você.",
+      "category": "Mindfulness",
+      "generated_at": "2026-05-03T19:55:46.651147"
     }
   ],
-  "last_updated": "2026-05-03T16:38:03.761079"
+  "last_updated": "2026-05-03T19:55:46.651148"
 }
