@@ -12329,7 +12329,37 @@
       "portuguese": "Cada tropeço, adiciona à sua história.",
       "category": "Confidence",
       "generated_at": "2026-07-09T23:04:32.337193"
+    },
+    {
+      "english": "The path clears, with each new word.",
+      "portuguese": "O caminho se abre, com cada nova palavra.",
+      "category": "Success",
+      "generated_at": "2026-07-10T04:42:17.211207"
+    },
+    {
+      "english": "Your voice finds its rhythm, soon.",
+      "portuguese": "Sua voz acha o ritmo, logo.",
+      "category": "Success",
+      "generated_at": "2026-07-10T04:42:17.211217"
+    },
+    {
+      "english": "This language unfolds, like a secret.",
+      "portuguese": "Esta língua se revela, como um segredo.",
+      "category": "Success",
+      "generated_at": "2026-07-10T04:42:17.211219"
+    },
+    {
+      "english": "Listen closely, understanding grows.",
+      "portuguese": "Ouça atento, a compreensão aumenta.",
+      "category": "Success",
+      "generated_at": "2026-07-10T04:42:17.211220"
+    },
+    {
+      "english": "Every phrase learned, a new door.",
+      "portuguese": "Cada frase aprendida, uma nova porta.",
+      "category": "Success",
+      "generated_at": "2026-07-10T04:42:17.211221"
     }
   ],
-  "last_updated": "2026-07-09T23:04:32.337195"
+  "last_updated": "2026-07-10T04:42:17.211223"
 }
