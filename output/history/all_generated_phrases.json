@@ -15509,7 +15509,37 @@
       "portuguese": "Eu falo mais alto, meu medo afrouxa.",
       "category": "Confidence",
       "generated_at": "2026-08-01T22:46:44.277036"
+    },
+    {
+      "english": "Morning fog, I train anyway, step by step.",
+      "portuguese": "Névoa da manhã, eu treino mesmo assim, passo a passo.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-02T04:18:18.181324"
+    },
+    {
+      "english": "Mud on my shoes, I keep practicing.",
+      "portuguese": "Lama nos meus sapatos, eu sigo treinando.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-02T04:18:18.181336"
+    },
+    {
+      "english": "Broken timer, I focus on one task.",
+      "portuguese": "Cronômetro quebrado, eu foco em uma tarefa.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-02T04:18:18.181338"
+    },
+    {
+      "english": "Rainy day, I answer slowly, steadily.",
+      "portuguese": "Dia de chuva, eu respondo devagar, com firmeza.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-02T04:18:18.181340"
+    },
+    {
+      "english": "Late night, I review, then breathe.",
+      "portuguese": "Noite tardia, eu reviso, depois respiro.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-02T04:18:18.181341"
     }
   ],
-  "last_updated": "2026-08-01T22:46:44.277038"
+  "last_updated": "2026-08-02T04:18:18.181342"
 }
