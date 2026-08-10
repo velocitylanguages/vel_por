@@ -16709,7 +16709,37 @@
       "portuguese": "Obrigado pelo ônibus chegando, no horário.",
       "category": "Gratitude",
       "generated_at": "2026-08-10T14:21:23.449103"
+    },
+    {
+      "english": "Morning coffee, choose one kind task.",
+      "portuguese": "Café da manhã, escolha uma tarefa gentil.",
+      "category": "Purpose",
+      "generated_at": "2026-08-10T16:43:02.163944"
+    },
+    {
+      "english": "Before lunch, tidy one small corner.",
+      "portuguese": "Antes do almoço, arrume um cantinho.",
+      "category": "Purpose",
+      "generated_at": "2026-08-10T16:43:02.163952"
+    },
+    {
+      "english": "Turn off noise, speak one true word.",
+      "portuguese": "Desligue o ruído, diga uma palavra verdadeira.",
+      "category": "Purpose",
+      "generated_at": "2026-08-10T16:43:02.163954"
+    },
+    {
+      "english": "On your commute, plan the next promise.",
+      "portuguese": "No caminho, planeje a próxima promessa.",
+      "category": "Purpose",
+      "generated_at": "2026-08-10T16:43:02.163955"
+    },
+    {
+      "english": "After dinner, thank the day, softly.",
+      "portuguese": "Depois do jantar, agradeça o dia, baixinho.",
+      "category": "Purpose",
+      "generated_at": "2026-08-10T16:43:02.163956"
     }
   ],
-  "last_updated": "2026-08-10T14:21:23.449105"
+  "last_updated": "2026-08-10T16:43:02.163958"
 }
