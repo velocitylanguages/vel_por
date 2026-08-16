@@ -17579,7 +17579,37 @@
       "portuguese": "Eu pergunto uma vez, e tento de novo, com carinho.",
       "category": "Confidence",
       "generated_at": "2026-08-16T02:13:47.705037"
+    },
+    {
+      "english": "I study quietly, I learn steadily",
+      "portuguese": "Eu estudo em silêncio, eu aprendo sempre",
+      "category": "Confidence",
+      "generated_at": "2026-08-16T13:33:41.503448"
+    },
+    {
+      "english": "Today, I speak first, even softly",
+      "portuguese": "Hoje, eu falo primeiro, mesmo baixinho",
+      "category": "Confidence",
+      "generated_at": "2026-08-16T13:33:41.503457"
+    },
+    {
+      "english": "My tongue stumbles, I reset calmly",
+      "portuguese": "Minha língua tropeça, eu recomeço tranquilo",
+      "category": "Confidence",
+      "generated_at": "2026-08-16T13:33:41.503458"
+    },
+    {
+      "english": "I practice in waves, not in pressure",
+      "portuguese": "Eu treino em ondas, não em pressão",
+      "category": "Confidence",
+      "generated_at": "2026-08-16T13:33:41.503460"
+    },
+    {
+      "english": "I ask one question, then breathe",
+      "portuguese": "Eu faço uma pergunta, e respiro",
+      "category": "Confidence",
+      "generated_at": "2026-08-16T13:33:41.503461"
     }
   ],
-  "last_updated": "2026-08-16T02:13:47.705038"
+  "last_updated": "2026-08-16T13:33:41.503462"
 }
