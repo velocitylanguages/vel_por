@@ -19979,7 +19979,37 @@
       "portuguese": "Eu faço uma pergunta, com gentileza.",
       "category": "Confidence",
       "generated_at": "2026-09-01T17:13:33.939471"
+    },
+    {
+      "english": "Inhale, soften your shoulders, exhale slowly.",
+      "portuguese": "Inspire, solte os ombros, expire devagar.",
+      "category": "Mindfulness",
+      "generated_at": "2026-09-01T18:59:55.581336"
+    },
+    {
+      "english": "Notice, the clock ticks, you stay present.",
+      "portuguese": "Perceba, o relógio tica, você fica aqui.",
+      "category": "Mindfulness",
+      "generated_at": "2026-09-01T18:59:55.581348"
+    },
+    {
+      "english": "Feel your feet, ground here, right now.",
+      "portuguese": "Sinta seus pés, aterrisse aqui, agora.",
+      "category": "Mindfulness",
+      "generated_at": "2026-09-01T18:59:55.581350"
+    },
+    {
+      "english": "Let thoughts pass, like clouds across morning.",
+      "portuguese": "Deixe os pensamentos passar, como nuvens na manhã.",
+      "category": "Mindfulness",
+      "generated_at": "2026-09-01T18:59:55.581351"
+    },
+    {
+      "english": "Listen closely, your breath has a rhythm.",
+      "portuguese": "Escute bem, sua respiração tem ritmo.",
+      "category": "Mindfulness",
+      "generated_at": "2026-09-01T18:59:55.581352"
     }
   ],
-  "last_updated": "2026-09-01T17:13:33.939473"
+  "last_updated": "2026-09-01T18:59:55.581354"
 }
