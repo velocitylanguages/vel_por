@@ -22709,7 +22709,37 @@
       "portuguese": "Diga não baixinho, limites viram força.",
       "category": "Strength",
       "generated_at": "2026-09-19T18:17:45.267412"
+    },
+    {
+      "english": "Hold doors open, softly, for someone behind you.",
+      "portuguese": "Segure portas abertas, com suavidade, para quem vem atrás.",
+      "category": "Kindness",
+      "generated_at": "2026-09-19T21:20:24.353828"
+    },
+    {
+      "english": "Share your seat, pause, and breathe kindly.",
+      "portuguese": "Dê seu lugar, pare um pouco, e respire gentilmente.",
+      "category": "Kindness",
+      "generated_at": "2026-09-19T21:20:24.353839"
+    },
+    {
+      "english": "Ask, really ask, how they’re doing today.",
+      "portuguese": "Pergunte, de verdade, como eles estão hoje.",
+      "category": "Kindness",
+      "generated_at": "2026-09-19T21:20:24.353841"
+    },
+    {
+      "english": "Send one warm message, then stop at ease.",
+      "portuguese": "Envie uma mensagem calorosa, e depois, sossegue.",
+      "category": "Kindness",
+      "generated_at": "2026-09-19T21:20:24.353842"
+    },
+    {
+      "english": "Offer help with care, without making noise.",
+      "portuguese": "Ofereça ajuda com cuidado, sem fazer alarde.",
+      "category": "Kindness",
+      "generated_at": "2026-09-19T21:20:24.353843"
     }
   ],
-  "last_updated": "2026-09-19T18:17:45.267414"
+  "last_updated": "2026-09-19T21:20:24.353845"
 }
