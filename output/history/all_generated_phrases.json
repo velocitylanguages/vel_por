@@ -27699,7 +27699,42 @@
       "generated_at": "2026-10-25T18:35:53.425147",
       "portuguese": "Preste atenção nos suspiros entre frases.",
       "pronunciation": "PRES-teh ah-tEN-sow noos soos-Pee-rows en-treh FRAH-sehs"
+    },
+    {
+      "english": "Fail, then knock again, softly.",
+      "category": "Success",
+      "generated_at": "2026-10-25T20:57:04.777448",
+      "portuguese": "Falhe, e bata outra vez, bem leve.",
+      "pronunciation": "fa-LI, e ba-ta OU-tra vez, bem LE-vi"
+    },
+    {
+      "english": "Courage is returning, without explanations.",
+      "category": "Success",
+      "generated_at": "2026-10-25T20:57:04.777461",
+      "portuguese": "Coragem é voltar, sem dar explicação.",
+      "pronunciation": "ko-RA-jem E vol-tar, sem dar e-xpli-ka-SAO"
+    },
+    {
+      "english": "One more attempt, like tuning a radio.",
+      "category": "Success",
+      "generated_at": "2026-10-25T20:57:04.777465",
+      "portuguese": "Mais uma tentativa, como ajustar o rádio.",
+      "pronunciation": "MAIS u-ma ten-ta-TI-va, co-mo a-JUS-tar o RA-dyo"
+    },
+    {
+      "english": "Try again, the door listens.",
+      "category": "Success",
+      "generated_at": "2026-10-25T20:57:04.777468",
+      "portuguese": "Tenta de novo, a porta escuta.",
+      "pronunciation": "TEN-ta de NO-vo, a POR-ta ES-ku-ta"
+    },
+    {
+      "english": "Your second try is your real voice.",
+      "category": "Success",
+      "generated_at": "2026-10-25T20:57:04.777469",
+      "portuguese": "O segundo tente é a sua voz.",
+      "pronunciation": "o se-GUN-do TEN-te é a SU-a voSS"
     }
   ],
-  "last_updated": "2026-10-25T18:35:53.425149"
+  "last_updated": "2026-10-25T20:57:04.777472"
 }
