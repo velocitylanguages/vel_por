@@ -29309,7 +29309,42 @@
       "generated_at": "2026-11-09T07:59:01.518927",
       "portuguese": "Siga uma estrela, de volta pra casa, devagar.",
       "pronunciation": "SI-ga u-ma e-STRE-la, de VÒl-ta pra KA-za, de-VA-gar."
+    },
+    {
+      "english": "I spot cobalt in my everyday cup.",
+      "category": "Confidence",
+      "generated_at": "2026-11-10T08:28:03.431013",
+      "portuguese": "Vejo azul-cobalto na minha xícara diária.",
+      "pronunciation": "Vey-oo ah-zuul ko-BAHL-too na minha SHEE-kah-rah jee-ah-REE-ah"
+    },
+    {
+      "english": "That red mug calms my racing thoughts.",
+      "category": "Confidence",
+      "generated_at": "2026-11-10T08:28:03.431026",
+      "portuguese": "Aquela caneca vermelha, acalma a mente agitada.",
+      "pronunciation": "AH-queh-lah kah-NEH-kah veh-mee-lyah, ah-KAL-ma ah MEHN-teh ah-gee-tah-dah"
+    },
+    {
+      "english": "Green leaves, teach me to notice slowly.",
+      "category": "Confidence",
+      "generated_at": "2026-11-10T08:28:03.431031",
+      "portuguese": "Folhas verdes, me ensinam a reparar devagar.",
+      "pronunciation": "Foh-lyahs veh-DFEH-jeez, meh ehn-see-num ah heh-PAH-rahr deh-Vah-gar"
+    },
+    {
+      "english": "Why does my shirt feel sunlit today?",
+      "category": "Confidence",
+      "generated_at": "2026-11-10T08:28:03.431033",
+      "portuguese": "Por que minha camisa hoje parece iluminada?",
+      "pronunciation": "Poor keh minha kah-mee-zah HOH-zhih pee-reh-see eel-yoo-mee-NAH-dah"
+    },
+    {
+      "english": "I trust the tiny shades in corners.",
+      "category": "Confidence",
+      "generated_at": "2026-11-10T08:28:03.431035",
+      "portuguese": "Confio nos tons discretos nos cantos.",
+      "pronunciation": "Kohn-FYOH nohs tonz dee-sKREE-toos nohs KAHN-toos"
     }
   ],
-  "last_updated": "2026-11-09T07:59:01.518929"
+  "last_updated": "2026-11-10T08:28:03.431037"
 }
