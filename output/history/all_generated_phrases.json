@@ -29344,7 +29344,42 @@
       "generated_at": "2026-11-10T08:28:03.431035",
       "portuguese": "Confio nos tons discretos nos cantos.",
       "pronunciation": "Kohn-FYOH nohs tonz dee-sKREE-toos nohs KAHN-toos"
+    },
+    {
+      "english": "Hey, I’m here for you, always.",
+      "portuguese": "Ei, eu estou aqui com você, sempre.",
+      "transliteration": "Ei, eu estou aqui com voce, sempre",
+      "category": "Friendship",
+      "generated_at": "2026-11-10T09:23:28.491358"
+    },
+    {
+      "english": "Send me a message, I’ll reply.",
+      "portuguese": "Me manda mensagem, eu respondo.",
+      "transliteration": "Me manda mensagem, eu respondo",
+      "category": "Friendship",
+      "generated_at": "2026-11-10T09:23:28.491371"
+    },
+    {
+      "english": "Let’s talk later, after dinner.",
+      "portuguese": "A gente conversa depois, depois do jantar.",
+      "transliteration": "A gente conversa depois, depois do jantar",
+      "category": "Friendship",
+      "generated_at": "2026-11-10T09:23:28.491373"
+    },
+    {
+      "english": "Your friendship steadies me, even today.",
+      "portuguese": "A sua amizade me acalma, até hoje.",
+      "transliteration": "A sua amizade me acalma, ate hoje",
+      "category": "Friendship",
+      "generated_at": "2026-11-10T09:23:28.491374"
+    },
+    {
+      "english": "When you need, I’ll show up.",
+      "portuguese": "Quando você precisar, eu apareço.",
+      "transliteration": "Quando voce precisar, eu apareco",
+      "category": "Friendship",
+      "generated_at": "2026-11-10T09:23:28.491375"
     }
   ],
-  "last_updated": "2026-11-10T08:28:03.431037"
+  "last_updated": "2026-11-10T09:23:28.491377"
 }
