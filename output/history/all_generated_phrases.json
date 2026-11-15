@@ -30324,7 +30324,42 @@
       "transliteration": "Men-te tran-qui-la, co-ra-ção fir-me, um pa-sso.",
       "category": "Balance",
       "generated_at": "2026-11-15T19:31:02.786311"
+    },
+    {
+      "english": "Please, speak to me more slowly.",
+      "portuguese": "Por favor, fala mais devagar comigo.",
+      "transliteration": "Por fa-vor, fa-la mais de-va-gar comi-go.",
+      "category": "Confidence",
+      "generated_at": "2026-11-15T21:37:11.141161"
+    },
+    {
+      "english": "I’m trying, and that’s enough.",
+      "portuguese": "Estou a tentar, e isso basta.",
+      "transliteration": "Es-tou a ten-tar, e is-so bas-ta.",
+      "category": "Confidence",
+      "generated_at": "2026-11-15T21:37:11.141173"
+    },
+    {
+      "english": "I can say it, one more time.",
+      "portuguese": "Eu consigo dizer, mais uma vez.",
+      "transliteration": "Eu con-si-go di-zer, mais u-ma vez.",
+      "category": "Confidence",
+      "generated_at": "2026-11-15T21:37:11.141175"
+    },
+    {
+      "english": "It’s okay, I’ll learn from mistakes.",
+      "portuguese": "Não faz mal, eu aprendo com erros.",
+      "transliteration": "Não faz mal, eu a-pren-do com er-ros.",
+      "category": "Confidence",
+      "generated_at": "2026-11-15T21:37:11.141177"
+    },
+    {
+      "english": "I ask for help when I need.",
+      "portuguese": "Peço ajuda quando preciso.",
+      "transliteration": "Pe-ço a-ju-da quan-do pre-ci-so.",
+      "category": "Confidence",
+      "generated_at": "2026-11-15T21:37:11.141178"
     }
   ],
-  "last_updated": "2026-11-15T19:31:02.786313"
+  "last_updated": "2026-11-15T21:37:11.141180"
 }
