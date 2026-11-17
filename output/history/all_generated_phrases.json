@@ -30604,7 +30604,42 @@
       "transliteration": "mesmo com dúvida, eu dou um passo",
       "category": "Courage",
       "generated_at": "2026-11-17T05:25:42.535735"
+    },
+    {
+      "english": "Thank you, for helping me today.",
+      "portuguese": "Obrigado, por me ajudar hoje.",
+      "transliteration": "OH-bree-gah-do, por meh ah-zhee-lyar HOY-jee.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-17T20:30:11.931335"
+    },
+    {
+      "english": "I’m grateful for your patient presence, today.",
+      "portuguese": "Sou grato pela sua presença paciente, hoje.",
+      "transliteration": "soo GRAH-too peh-lah SOO-ah preh-ZEN-syah pah-see-en-chee, HOY-jee.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-17T20:30:11.931351"
+    },
+    {
+      "english": "Thank you, for the quiet in my chest.",
+      "portuguese": "Obrigado pela calma no meu peito.",
+      "transliteration": "oh-bree-gah-do peh-lah KAH-mah no may-o PAY-too.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-17T20:30:11.931354"
+    },
+    {
+      "english": "I appreciate clean water for my day.",
+      "portuguese": "Aprecio água limpa para o meu dia.",
+      "transliteration": "ah-PREE-oo AH-gwah leen-pah pah-rah o may-o JEE-ah.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-17T20:30:11.931355"
+    },
+    {
+      "english": "Thank you, kind words, when I needed them.",
+      "portuguese": "Obrigado pelas palavras gentis, quando precisei.",
+      "transliteration": "oh-bree-gah-do peh-las pah-lah-vrahs zhen-chees, KWAN-do preh-see-zy.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-17T20:30:11.931357"
     }
   ],
-  "last_updated": "2026-11-17T05:25:42.535738"
+  "last_updated": "2026-11-17T20:30:11.931359"
 }
