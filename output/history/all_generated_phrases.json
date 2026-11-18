@@ -30744,7 +30744,42 @@
       "transliteration": "A sua respiracao pode te acalmar.",
       "category": "Hope",
       "generated_at": "2026-11-18T01:56:09.917664"
+    },
+    {
+      "english": "Be patient, it takes time.",
+      "portuguese": "Seja paciente, leva tempo.",
+      "transliteration": "say-ya pah-sye-nte, layv pahm-poo",
+      "category": "Patience",
+      "generated_at": "2026-11-18T04:52:01.430233"
+    },
+    {
+      "english": "Just wait, everything will be okay.",
+      "portuguese": "Espera só, vai ficar tudo bem.",
+      "transliteration": "es-pera soh, vai fih-car too-doo bem",
+      "category": "Patience",
+      "generated_at": "2026-11-18T04:52:01.430247"
+    },
+    {
+      "english": "Keep calm, your turn will come.",
+      "portuguese": "Mantém a calma, a tua vez chega.",
+      "transliteration": "man-tem a kal-ma, a too-a vaysh esh-ga",
+      "category": "Patience",
+      "generated_at": "2026-11-18T04:52:01.430249"
+    },
+    {
+      "english": "Relax, don't force it.",
+      "portuguese": "Relaxa, não forces.",
+      "transliteration": "re-lah-za, now for-shs",
+      "category": "Patience",
+      "generated_at": "2026-11-18T04:52:01.430250"
+    },
+    {
+      "english": "Wait, and let it settle.",
+      "portuguese": "Espera, deixa assentar.",
+      "transliteration": "es-pera, deh-sha ah-sen-tar",
+      "category": "Patience",
+      "generated_at": "2026-11-18T04:52:01.430251"
     }
   ],
-  "last_updated": "2026-11-18T01:56:09.917666"
+  "last_updated": "2026-11-18T04:52:01.430253"
 }
