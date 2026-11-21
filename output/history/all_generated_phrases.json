@@ -31374,7 +31374,42 @@
       "transliteration": "DEE-ga kom kla-Reh-za, deh-pois TEN-te.",
       "category": "Success",
       "generated_at": "2026-11-21T20:20:04.150915"
+    },
+    {
+      "english": "Breathe in, soften your shoulders, keep going.",
+      "portuguese": "Inspira, suaviza os ombros, segue.",
+      "transliteration": "in-SPI-ra, soo-a-vi-sa os OM-bros, SE-gu",
+      "category": "Strength",
+      "generated_at": "2026-11-21T22:07:01.435271"
+    },
+    {
+      "english": "Exhale slowly, relax your jaw, listen.",
+      "portuguese": "Expira devagar, relaxa a mandíbula, escuta.",
+      "transliteration": "ex-PI-ra de-va-GAR, re-LAK-sa a man-di-BU-la, es-KU-ta",
+      "category": "Strength",
+      "generated_at": "2026-11-21T22:07:01.435288"
+    },
+    {
+      "english": "You can do this, one step now.",
+      "portuguese": "Você consegue, um passo agora.",
+      "transliteration": "vo-SÊ con-SE-gui, um PAS-so a-GO-ra",
+      "category": "Strength",
+      "generated_at": "2026-11-21T22:07:01.435291"
+    },
+    {
+      "english": "Keep moving, even if it’s messy.",
+      "portuguese": "Continua andando, mesmo se estiver bagunçado.",
+      "transliteration": "con-ti-Nu-a an-DA ndo, MES-mo se es-ti-ver ba-goo-NÇa-do",
+      "category": "Strength",
+      "generated_at": "2026-11-21T22:07:01.435292"
+    },
+    {
+      "english": "I feel it, I breathe, I act.",
+      "portuguese": "Eu sinto, eu respiro, eu ajo.",
+      "transliteration": "eu SIN-to, eu re-SPI-ro, eu A-ju",
+      "category": "Strength",
+      "generated_at": "2026-11-21T22:07:01.435294"
     }
   ],
-  "last_updated": "2026-11-21T20:20:04.150917"
+  "last_updated": "2026-11-21T22:07:01.435296"
 }
