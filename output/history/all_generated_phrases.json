@@ -32270,7 +32270,28 @@
       "transliteration": "Re-pi-ta, mas de-va-gar e kom kla-re-za",
       "category": "Inspiration",
       "generated_at": "2026-11-27T11:50:35.992460"
+    },
+    {
+      "english": "Hi, where is the nearest supermarket?",
+      "portuguese": "Olá, onde fica o supermercado mais perto?",
+      "transliteration": "Ola, onde fika o supermerkado mais perto?",
+      "category": "Shopping",
+      "generated_at": "2026-11-27T19:18:19.000830"
+    },
+    {
+      "english": "I just want to look around, thanks.",
+      "portuguese": "Quero só dar uma olhada, obrigado.",
+      "transliteration": "Quero so dar uma olhada, obrigado.",
+      "category": "Shopping",
+      "generated_at": "2026-11-27T19:18:19.000848"
+    },
+    {
+      "english": "How much is this, please?",
+      "portuguese": "Quanto custa isso, por favor?",
+      "transliteration": "Quantto kusta issi, por favor?",
+      "category": "Shopping",
+      "generated_at": "2026-11-27T19:18:19.000849"
     }
   ],
-  "last_updated": "2026-11-27T11:50:35.992462"
+  "last_updated": "2026-11-27T19:18:19.000851"
 }
