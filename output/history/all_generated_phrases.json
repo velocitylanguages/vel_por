@@ -32291,7 +32291,28 @@
       "transliteration": "Quantto kusta issi, por favor?",
       "category": "Shopping",
       "generated_at": "2026-11-27T19:18:19.000849"
+    },
+    {
+      "english": "I feel dizzy right now.",
+      "portuguese": "Estou com tontura agora.",
+      "transliteration": "Estou com TONTU-ra a-go-ra",
+      "category": "Health",
+      "generated_at": "2026-11-28T16:14:42.200117"
+    },
+    {
+      "english": "My head hurts a lot.",
+      "portuguese": "Minha cabeça está doendo muito.",
+      "transliteration": "Mi-nha CABE-ça es-TÁ DO-en-do MU-i-to",
+      "category": "Health",
+      "generated_at": "2026-11-28T16:14:42.200130"
+    },
+    {
+      "english": "I think I have a fever.",
+      "portuguese": "Acho que estou com febre.",
+      "transliteration": "A-cho que ES-tou com FE-bre",
+      "category": "Health",
+      "generated_at": "2026-11-28T16:14:42.200132"
     }
   ],
-  "last_updated": "2026-11-27T19:18:19.000851"
+  "last_updated": "2026-11-28T16:14:42.200137"
 }
